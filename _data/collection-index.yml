@@ -961,4 +961,9 @@
   maintainer: David Zucker
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
-  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi
+- name: Templates by marcocarmonadev
+  maintainer: marcocarmonadev
+  contact: https://github.com/marcocarmonadev/devcontainer-templates/issues
+  repository: https://github.com/marcocarmonadev/devcontainer-templates
+  ociReference: ghcr.io/marcocarmonadev/devcontainer-templates
